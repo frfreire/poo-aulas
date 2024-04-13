@@ -1,0 +1,15 @@
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\bin\Debug\net7.0\ads.exe
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\bin\Debug\net7.0\ads.deps.json
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\bin\Debug\net7.0\ads.runtimeconfig.json
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\bin\Debug\net7.0\ads.dll
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\bin\Debug\net7.0\ads.pdb
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.csproj.AssemblyReference.cache
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.AssemblyInfoInputs.cache
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.AssemblyInfo.cs
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.csproj.CoreCompileInputs.cache
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.dll
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\refint\ads.dll
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.pdb
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ads.genruntimeconfig.cache
+C:\Users\brici\Projetos\01-UNIP\fontes\poo1\ads\obj\Debug\net7.0\ref\ads.dll
